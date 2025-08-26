@@ -1,5 +1,5 @@
 {
-  "updateDate": "Last Updated: 21 May 2025 15:18:31",
+  "updateDate": "Last Updated: 26 Aug 2025 06:30:48",
   "tables": [
     {
       "name": "Acceltra",
@@ -354,6 +354,11 @@
             },
             {
               "name": "Meso T7",
+              "rarity": "UC",
+              "isInVault": true
+            },
+            {
+              "name": "Meso T8",
               "rarity": "UC",
               "isInVault": false
             }
@@ -4515,6 +4520,11 @@
             {
               "name": "Meso T7",
               "rarity": "C",
+              "isInVault": true
+            },
+            {
+              "name": "Meso T8",
+              "rarity": "C",
               "isInVault": false
             },
             {
@@ -8185,7 +8195,7 @@
             {
               "name": "Meso T7",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Neo E4",
@@ -10515,7 +10525,7 @@
           ]
         },
         {
-          "name": "Reciever",
+          "name": "Receiver",
           "relics": [
             {
               "name": "Axi N13",
@@ -11506,6 +11516,11 @@
               "name": "Meso N5",
               "rarity": "C",
               "isInVault": true
+            },
+            {
+              "name": "Meso T8",
+              "rarity": "C",
+              "isInVault": false
             },
             {
               "name": "Meso W4",
@@ -14135,7 +14150,7 @@
             {
               "name": "Meso T7",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             }
           ]
         },
@@ -15906,6 +15921,11 @@
               "name": "Axi T12",
               "rarity": "UC",
               "isInVault": true
+            },
+            {
+              "name": "Meso T8",
+              "rarity": "UC",
+              "isInVault": false
             },
             {
               "name": "Neo D9",
@@ -19390,6 +19410,11 @@
             {
               "name": "Meso T7",
               "rarity": "R",
+              "isInVault": true
+            },
+            {
+              "name": "Meso T8",
+              "rarity": "R",
               "isInVault": false
             }
           ]
@@ -20555,7 +20580,7 @@
             {
               "name": "Meso T7",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Neo D7",
@@ -20849,6 +20874,11 @@
             },
             {
               "name": "Meso E6",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
+              "name": "Meso T8",
               "rarity": "C",
               "isInVault": false
             }
