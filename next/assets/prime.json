@@ -1,5 +1,5 @@
 {
-  "updateDate": "Last Updated: 26 Aug 2025 06:30:48",
+  "updateDate": "Last Updated: 26 Aug 2025 16:05:47",
   "tables": [
     {
       "name": "Acceltra",
@@ -26,6 +26,11 @@
               "name": "Neo A14",
               "rarity": "R",
               "isInVault": false
+            },
+            {
+              "name": "Neo A15",
+              "rarity": "R",
+              "isInVault": false
             }
           ]
         },
@@ -35,7 +40,7 @@
             {
               "name": "Axi M6",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Lith C11",
@@ -45,12 +50,17 @@
             {
               "name": "Lith M10",
               "rarity": "C",
+              "isInVault": true
+            },
+            {
+              "name": "Meso G9",
+              "rarity": "C",
               "isInVault": false
             },
             {
               "name": "Meso N17",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso V10",
@@ -75,7 +85,7 @@
             {
               "name": "Axi O6",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Axi Z2",
@@ -83,7 +93,17 @@
               "isInVault": true
             },
             {
+              "name": "Lith N17",
+              "rarity": "UC",
+              "isInVault": false
+            },
+            {
               "name": "Meso K7",
+              "rarity": "UC",
+              "isInVault": true
+            },
+            {
+              "name": "Meso L3",
               "rarity": "UC",
               "isInVault": false
             },
@@ -298,6 +318,11 @@
               "isInVault": true
             },
             {
+              "name": "Lith O4",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
               "name": "Neo A12",
               "rarity": "C",
               "isInVault": true
@@ -338,6 +363,11 @@
           "name": "Link",
           "relics": [
             {
+              "name": "Axi O7",
+              "rarity": "UC",
+              "isInVault": false
+            },
+            {
               "name": "Lith R5",
               "rarity": "UC",
               "isInVault": true
@@ -345,7 +375,7 @@
             {
               "name": "Meso N17",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso P16",
@@ -368,6 +398,11 @@
           "name": "Receiver",
           "relics": [
             {
+              "name": "Lith A10",
+              "rarity": "R",
+              "isInVault": false
+            },
+            {
               "name": "Lith A6",
               "rarity": "R",
               "isInVault": true
@@ -380,7 +415,7 @@
             {
               "name": "Lith A8",
               "rarity": "R",
-              "isInVault": false
+              "isInVault": true
             }
           ]
         }
@@ -555,7 +590,7 @@
             {
               "name": "Lith A8",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Lith B11",
@@ -621,6 +656,11 @@
               "name": "Meso B6",
               "rarity": "C",
               "isInVault": true
+            },
+            {
+              "name": "Meso G9",
+              "rarity": "C",
+              "isInVault": false
             },
             {
               "name": "Meso O1",
@@ -703,6 +743,11 @@
               "isInVault": true
             },
             {
+              "name": "Lith C13",
+              "rarity": "UC",
+              "isInVault": false
+            },
+            {
               "name": "Lith H7",
               "rarity": "UC",
               "isInVault": true
@@ -720,7 +765,7 @@
             {
               "name": "Meso E6",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso O2",
@@ -2700,7 +2745,7 @@
             {
               "name": "Lith A8",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Lith C11",
@@ -2925,7 +2970,7 @@
             {
               "name": "Axi O6",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Axi S13",
@@ -2956,6 +3001,11 @@
               "name": "Lith G13",
               "rarity": "C",
               "isInVault": true
+            },
+            {
+              "name": "Lith N17",
+              "rarity": "C",
+              "isInVault": false
             },
             {
               "name": "Lith N3",
@@ -3005,7 +3055,7 @@
             {
               "name": "Lith Y1",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso B2",
@@ -3036,6 +3086,11 @@
               "name": "Meso V1",
               "rarity": "UC",
               "isInVault": true
+            },
+            {
+              "name": "Meso V11",
+              "rarity": "C",
+              "isInVault": false
             },
             {
               "name": "Meso Z2",
@@ -3288,6 +3343,11 @@
               "isInVault": true
             },
             {
+              "name": "Lith K12",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
               "name": "Lith N10",
               "rarity": "C",
               "isInVault": true
@@ -3320,7 +3380,7 @@
             {
               "name": "Meso G8",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso K3",
@@ -3508,6 +3568,11 @@
               "isInVault": true
             },
             {
+              "name": "Meso V12",
+              "rarity": "UC",
+              "isInVault": false
+            },
+            {
               "name": "Meso Z4",
               "rarity": "UC",
               "isInVault": true
@@ -3520,7 +3585,7 @@
             {
               "name": "Neo G9",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Neo M2",
@@ -3750,12 +3815,22 @@
             {
               "name": "Lith A8",
               "rarity": "C",
+              "isInVault": true
+            },
+            {
+              "name": "Lith C13",
+              "rarity": "C",
               "isInVault": false
             },
             {
               "name": "Lith C2",
               "rarity": "C",
               "isInVault": true
+            },
+            {
+              "name": "Lith O4",
+              "rarity": "C",
+              "isInVault": false
             },
             {
               "name": "Lith P5",
@@ -3825,7 +3900,7 @@
             {
               "name": "Neo G9",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Neo K6",
@@ -3913,6 +3988,11 @@
               "isInVault": true
             },
             {
+              "name": "Axi V13",
+              "rarity": "UC",
+              "isInVault": false
+            },
+            {
               "name": "Lith E1",
               "rarity": "UC",
               "isInVault": true
@@ -3935,7 +4015,7 @@
             {
               "name": "Lith M10",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Lith N12",
@@ -4085,7 +4165,7 @@
             {
               "name": "Axi M6",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Axi R4",
@@ -4106,6 +4186,11 @@
               "name": "Axi T3",
               "rarity": "C",
               "isInVault": true
+            },
+            {
+              "name": "Lith A10",
+              "rarity": "C",
+              "isInVault": false
             },
             {
               "name": "Lith B3",
@@ -4602,6 +4687,51 @@
       ]
     },
     {
+      "name": "Caliban",
+      "parts": [
+        {
+          "name": "Blueprint",
+          "relics": [
+            {
+              "name": "Meso V11",
+              "rarity": "UC",
+              "isInVault": false
+            }
+          ]
+        },
+        {
+          "name": "Chassis Blueprint",
+          "relics": [
+            {
+              "name": "Lith K12",
+              "rarity": "C",
+              "isInVault": false
+            }
+          ]
+        },
+        {
+          "name": "Neuroptics Blueprint",
+          "relics": [
+            {
+              "name": "Lith C13",
+              "rarity": "R",
+              "isInVault": false
+            }
+          ]
+        },
+        {
+          "name": "Systems Blueprint",
+          "relics": [
+            {
+              "name": "Axi C10",
+              "rarity": "R",
+              "isInVault": false
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Carrier",
       "parts": [
         {
@@ -4780,6 +4910,11 @@
             {
               "name": "Axi M6",
               "rarity": "UC",
+              "isInVault": true
+            },
+            {
+              "name": "Lith K12",
+              "rarity": "UC",
               "isInVault": false
             }
           ]
@@ -4787,6 +4922,11 @@
         {
           "name": "Stock",
           "relics": [
+            {
+              "name": "Axi S18",
+              "rarity": "C",
+              "isInVault": false
+            },
             {
               "name": "Lith A7",
               "rarity": "C",
@@ -5623,6 +5763,11 @@
           "name": "Blueprint",
           "relics": [
             {
+              "name": "Lith E2",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
               "name": "Lith Q2",
               "rarity": "C",
               "isInVault": false
@@ -5643,9 +5788,14 @@
           "name": "Lower Limb",
           "relics": [
             {
-              "name": "Lith A8",
+              "name": "Axi C10",
               "rarity": "UC",
               "isInVault": false
+            },
+            {
+              "name": "Lith A8",
+              "rarity": "UC",
+              "isInVault": true
             }
           ]
         },
@@ -5654,6 +5804,11 @@
           "relics": [
             {
               "name": "Axi V12",
+              "rarity": "C",
+              "isInVault": true
+            },
+            {
+              "name": "Neo A15",
               "rarity": "C",
               "isInVault": false
             }
@@ -6273,9 +6428,14 @@
           "name": "Blueprint",
           "relics": [
             {
-              "name": "Lith S16",
+              "name": "Lith C13",
               "rarity": "UC",
               "isInVault": false
+            },
+            {
+              "name": "Lith S16",
+              "rarity": "UC",
+              "isInVault": true
             }
           ]
         },
@@ -6284,6 +6444,11 @@
           "relics": [
             {
               "name": "Axi P8",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
+              "name": "Lith E2",
               "rarity": "C",
               "isInVault": false
             }
@@ -6388,6 +6553,11 @@
           "name": "Barrel",
           "relics": [
             {
+              "name": "Axi O7",
+              "rarity": "UC",
+              "isInVault": false
+            },
+            {
               "name": "Axi P8",
               "rarity": "UC",
               "isInVault": false
@@ -6413,6 +6583,11 @@
               "isInVault": true
             },
             {
+              "name": "Axi C10",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
               "name": "Axi F3",
               "rarity": "C",
               "isInVault": true
@@ -6420,12 +6595,12 @@
             {
               "name": "Axi O6",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso K7",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             }
           ]
         },
@@ -6433,9 +6608,14 @@
           "name": "Receiver",
           "relics": [
             {
-              "name": "Meso E6",
+              "name": "Lith E2",
               "rarity": "R",
               "isInVault": false
+            },
+            {
+              "name": "Meso E6",
+              "rarity": "R",
+              "isInVault": true
             },
             {
               "name": "Neo E4",
@@ -6705,7 +6885,7 @@
             {
               "name": "Axi G14",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Axi L6",
@@ -6828,6 +7008,11 @@
               "isInVault": true
             },
             {
+              "name": "Meso V11",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
               "name": "Meso V8",
               "rarity": "C",
               "isInVault": true
@@ -6911,6 +7096,11 @@
               "name": "Axi L5",
               "rarity": "C",
               "isInVault": true
+            },
+            {
+              "name": "Axi O7",
+              "rarity": "C",
+              "isInVault": false
             },
             {
               "name": "Axi P8",
@@ -7174,6 +7364,11 @@
             },
             {
               "name": "Lith L5",
+              "rarity": "UC",
+              "isInVault": true
+            },
+            {
+              "name": "Lith N17",
               "rarity": "UC",
               "isInVault": false
             },
@@ -8118,6 +8313,11 @@
               "isInVault": true
             },
             {
+              "name": "Neo A15",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
               "name": "Neo D10",
               "rarity": "UC",
               "isInVault": false
@@ -8125,7 +8325,7 @@
             {
               "name": "Neo G9",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Neo M5",
@@ -8142,6 +8342,11 @@
         {
           "name": "Chassis Blueprint",
           "relics": [
+            {
+              "name": "Lith C13",
+              "rarity": "C",
+              "isInVault": false
+            },
             {
               "name": "Lith M9",
               "rarity": "C",
@@ -8185,6 +8390,11 @@
             {
               "name": "Axi V12",
               "rarity": "UC",
+              "isInVault": true
+            },
+            {
+              "name": "Axi V13",
+              "rarity": "UC",
               "isInVault": false
             },
             {
@@ -8223,6 +8433,11 @@
               "isInVault": true
             },
             {
+              "name": "Meso G9",
+              "rarity": "R",
+              "isInVault": false
+            },
+            {
               "name": "Neo G8",
               "rarity": "R",
               "isInVault": true
@@ -8230,7 +8445,7 @@
             {
               "name": "Neo G9",
               "rarity": "R",
-              "isInVault": false
+              "isInVault": true
             }
           ]
         }
@@ -8435,7 +8650,7 @@
             {
               "name": "Meso G8",
               "rarity": "R",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Neo G7",
@@ -8460,7 +8675,7 @@
             {
               "name": "Lith M10",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Neo S18",
@@ -8475,7 +8690,7 @@
             {
               "name": "Axi M6",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Axi S17",
@@ -8515,7 +8730,7 @@
             {
               "name": "Axi G14",
               "rarity": "R",
-              "isInVault": false
+              "isInVault": true
             }
           ]
         }
@@ -10508,9 +10723,14 @@
           "name": "Barrel",
           "relics": [
             {
-              "name": "Meso K7",
+              "name": "Lith K12",
               "rarity": "R",
               "isInVault": false
+            },
+            {
+              "name": "Meso K7",
+              "rarity": "R",
+              "isInVault": true
             }
           ]
         },
@@ -10518,9 +10738,14 @@
           "name": "Blueprint",
           "relics": [
             {
-              "name": "Neo G9",
+              "name": "Axi O7",
               "rarity": "C",
               "isInVault": false
+            },
+            {
+              "name": "Neo G9",
+              "rarity": "C",
+              "isInVault": true
             }
           ]
         },
@@ -10918,6 +11143,11 @@
           "name": "Chassis Blueprint",
           "relics": [
             {
+              "name": "Axi C10",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
               "name": "Neo X1",
               "rarity": "C",
               "isInVault": false
@@ -10939,6 +11169,11 @@
           "relics": [
             {
               "name": "Lith L5",
+              "rarity": "R",
+              "isInVault": true
+            },
+            {
+              "name": "Meso L3",
               "rarity": "R",
               "isInVault": false
             }
@@ -11023,6 +11258,11 @@
               "isInVault": true
             },
             {
+              "name": "Lith N17",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
               "name": "Lith N7",
               "rarity": "C",
               "isInVault": true
@@ -11050,7 +11290,7 @@
             {
               "name": "Lith Y1",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso C10",
@@ -12035,12 +12275,12 @@
             {
               "name": "Axi M6",
               "rarity": "R",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Lith M10",
               "rarity": "R",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Lith M9",
@@ -12075,7 +12315,7 @@
             {
               "name": "Lith A8",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Lith W4",
@@ -12085,12 +12325,12 @@
             {
               "name": "Meso E6",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Neo G9",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Neo P6",
@@ -12125,17 +12365,17 @@
             {
               "name": "Lith S16",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso K7",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso N17",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             }
           ]
         }
@@ -12713,15 +12953,25 @@
           "name": "Blueprint",
           "relics": [
             {
-              "name": "Meso N17",
+              "name": "Lith N17",
               "rarity": "R",
               "isInVault": false
+            },
+            {
+              "name": "Meso N17",
+              "rarity": "R",
+              "isInVault": true
             }
           ]
         },
         {
           "name": "Carapace",
           "relics": [
+            {
+              "name": "Axi V13",
+              "rarity": "C",
+              "isInVault": false
+            },
             {
               "name": "Lith A7",
               "rarity": "C",
@@ -12730,7 +12980,7 @@
             {
               "name": "Lith Y1",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Neo G7",
@@ -12779,6 +13029,11 @@
             },
             {
               "name": "Lith Q2",
+              "rarity": "UC",
+              "isInVault": false
+            },
+            {
+              "name": "Meso V11",
               "rarity": "UC",
               "isInVault": false
             }
@@ -14133,6 +14388,11 @@
               "isInVault": true
             },
             {
+              "name": "Axi C10",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
               "name": "Axi N13",
               "rarity": "C",
               "isInVault": false
@@ -14145,7 +14405,7 @@
             {
               "name": "Lith L5",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso T7",
@@ -14159,6 +14419,11 @@
           "relics": [
             {
               "name": "Axi O6",
+              "rarity": "R",
+              "isInVault": true
+            },
+            {
+              "name": "Lith O4",
               "rarity": "R",
               "isInVault": false
             },
@@ -14175,7 +14440,7 @@
             {
               "name": "Lith Z4",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso A8",
@@ -14186,6 +14451,11 @@
               "name": "Meso G7",
               "rarity": "UC",
               "isInVault": true
+            },
+            {
+              "name": "Meso L3",
+              "rarity": "UC",
+              "isInVault": false
             },
             {
               "name": "Neo G8",
@@ -14403,6 +14673,11 @@
               "isInVault": true
             },
             {
+              "name": "Axi O7",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
               "name": "Axi P6",
               "rarity": "C",
               "isInVault": true
@@ -14425,7 +14700,7 @@
             {
               "name": "Lith M10",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Lith M9",
@@ -15083,6 +15358,11 @@
               "isInVault": true
             },
             {
+              "name": "Lith A10",
+              "rarity": "UC",
+              "isInVault": false
+            },
+            {
               "name": "Lith K6",
               "rarity": "UC",
               "isInVault": true
@@ -15095,7 +15375,7 @@
             {
               "name": "Lith S16",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Lith S7",
@@ -15285,7 +15565,7 @@
             {
               "name": "Meso G8",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso O1",
@@ -15353,6 +15633,11 @@
               "isInVault": true
             },
             {
+              "name": "Axi S18",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
               "name": "Axi T6",
               "rarity": "C",
               "isInVault": true
@@ -15400,7 +15685,7 @@
             {
               "name": "Meso E6",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso H6",
@@ -15570,7 +15855,7 @@
             {
               "name": "Lith L5",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Lith N14",
@@ -15616,6 +15901,11 @@
               "name": "Meso I1",
               "rarity": "C",
               "isInVault": true
+            },
+            {
+              "name": "Meso L3",
+              "rarity": "C",
+              "isInVault": false
             },
             {
               "name": "Meso N4",
@@ -15863,6 +16153,11 @@
               "isInVault": false
             },
             {
+              "name": "Axi V13",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
               "name": "Lith W4",
               "rarity": "C",
               "isInVault": true
@@ -15870,7 +16165,7 @@
             {
               "name": "Meso K7",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso V10",
@@ -15921,6 +16216,11 @@
               "name": "Axi T12",
               "rarity": "UC",
               "isInVault": true
+            },
+            {
+              "name": "Lith O4",
+              "rarity": "UC",
+              "isInVault": false
             },
             {
               "name": "Meso T8",
@@ -16135,6 +16435,11 @@
             {
               "name": "Meso G8",
               "rarity": "UC",
+              "isInVault": true
+            },
+            {
+              "name": "Neo A15",
+              "rarity": "UC",
               "isInVault": false
             },
             {
@@ -16150,7 +16455,7 @@
             {
               "name": "Axi G14",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Axi N13",
@@ -16159,6 +16464,11 @@
             },
             {
               "name": "Meso A8",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
+              "name": "Meso V12",
               "rarity": "C",
               "isInVault": false
             }
@@ -17190,6 +17500,11 @@
             {
               "name": "Lith Z4",
               "rarity": "UC",
+              "isInVault": true
+            },
+            {
+              "name": "Meso V12",
+              "rarity": "UC",
               "isInVault": false
             },
             {
@@ -17208,9 +17523,14 @@
               "isInVault": true
             },
             {
-              "name": "Lith S16",
+              "name": "Axi S18",
               "rarity": "R",
               "isInVault": false
+            },
+            {
+              "name": "Lith S16",
+              "rarity": "R",
+              "isInVault": true
             }
           ]
         },
@@ -17220,7 +17540,7 @@
             {
               "name": "Axi G14",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Axi Y1",
@@ -17229,6 +17549,11 @@
             },
             {
               "name": "Meso A7",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
+              "name": "Meso L3",
               "rarity": "C",
               "isInVault": false
             },
@@ -17253,14 +17578,19 @@
               "isInVault": true
             },
             {
-              "name": "Lith M10",
+              "name": "Lith E2",
               "rarity": "C",
               "isInVault": false
             },
             {
+              "name": "Lith M10",
+              "rarity": "C",
+              "isInVault": true
+            },
+            {
               "name": "Meso G8",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             }
           ]
         }
@@ -19428,6 +19758,11 @@
               "isInVault": true
             },
             {
+              "name": "Lith K12",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
               "name": "Lith Q2",
               "rarity": "C",
               "isInVault": false
@@ -19470,6 +19805,56 @@
             {
               "name": "Lith Y1",
               "rarity": "UC",
+              "isInVault": true
+            },
+            {
+              "name": "Meso G9",
+              "rarity": "UC",
+              "isInVault": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vadarya",
+      "parts": [
+        {
+          "name": "Barrel",
+          "relics": [
+            {
+              "name": "Neo A15",
+              "rarity": "UC",
+              "isInVault": false
+            }
+          ]
+        },
+        {
+          "name": "Blueprint",
+          "relics": [
+            {
+              "name": "Meso V12",
+              "rarity": "R",
+              "isInVault": false
+            }
+          ]
+        },
+        {
+          "name": "Receiver",
+          "relics": [
+            {
+              "name": "Axi S18",
+              "rarity": "UC",
+              "isInVault": false
+            }
+          ]
+        },
+        {
+          "name": "Stock",
+          "relics": [
+            {
+              "name": "Lith O4",
+              "rarity": "C",
               "isInVault": false
             }
           ]
@@ -20065,12 +20450,17 @@
             {
               "name": "Axi V12",
               "rarity": "R",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso V10",
               "rarity": "R",
               "isInVault": true
+            },
+            {
+              "name": "Meso V11",
+              "rarity": "R",
+              "isInVault": false
             },
             {
               "name": "Meso V9",
@@ -20088,9 +20478,14 @@
               "isInVault": true
             },
             {
-              "name": "Meso N17",
+              "name": "Axi S18",
               "rarity": "UC",
               "isInVault": false
+            },
+            {
+              "name": "Meso N17",
+              "rarity": "UC",
+              "isInVault": true
             },
             {
               "name": "Neo C6",
@@ -20120,6 +20515,11 @@
             {
               "name": "Lith Z4",
               "rarity": "C",
+              "isInVault": true
+            },
+            {
+              "name": "Meso V12",
+              "rarity": "C",
               "isInVault": false
             },
             {
@@ -20131,6 +20531,41 @@
               "name": "Neo L4",
               "rarity": "C",
               "isInVault": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Venato",
+      "parts": [
+        {
+          "name": "Blade",
+          "relics": [
+            {
+              "name": "Axi V13",
+              "rarity": "R",
+              "isInVault": false
+            }
+          ]
+        },
+        {
+          "name": "Blueprint",
+          "relics": [
+            {
+              "name": "Lith E2",
+              "rarity": "UC",
+              "isInVault": false
+            }
+          ]
+        },
+        {
+          "name": "Handle",
+          "relics": [
+            {
+              "name": "Meso G9",
+              "rarity": "C",
+              "isInVault": false
             }
           ]
         }
@@ -20855,6 +21290,11 @@
             {
               "name": "Axi V12",
               "rarity": "UC",
+              "isInVault": true
+            },
+            {
+              "name": "Lith O4",
+              "rarity": "UC",
               "isInVault": false
             },
             {
@@ -20868,17 +21308,27 @@
           "name": "Neuroptics Blueprint",
           "relics": [
             {
-              "name": "Lith S16",
+              "name": "Lith N17",
               "rarity": "C",
               "isInVault": false
+            },
+            {
+              "name": "Lith S16",
+              "rarity": "C",
+              "isInVault": true
             },
             {
               "name": "Meso E6",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso T8",
+              "rarity": "C",
+              "isInVault": false
+            },
+            {
+              "name": "Meso V11",
               "rarity": "C",
               "isInVault": false
             }
@@ -20894,6 +21344,11 @@
             },
             {
               "name": "Axi M6",
+              "rarity": "UC",
+              "isInVault": true
+            },
+            {
+              "name": "Lith A10",
               "rarity": "UC",
               "isInVault": false
             }
@@ -20918,9 +21373,14 @@
           "name": "Chassis Blueprint",
           "relics": [
             {
-              "name": "Lith Z4",
+              "name": "Lith A10",
               "rarity": "C",
               "isInVault": false
+            },
+            {
+              "name": "Lith Z4",
+              "rarity": "C",
+              "isInVault": true
             }
           ]
         },
@@ -20928,9 +21388,14 @@
           "name": "Neuroptics Blueprint",
           "relics": [
             {
-              "name": "Lith Y1",
+              "name": "Axi O7",
               "rarity": "R",
               "isInVault": false
+            },
+            {
+              "name": "Lith Y1",
+              "rarity": "R",
+              "isInVault": true
             }
           ]
         },
@@ -21435,7 +21900,7 @@
             {
               "name": "Axi V12",
               "rarity": "C",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Lith G12",
@@ -21475,7 +21940,7 @@
             {
               "name": "Lith Z4",
               "rarity": "R",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Neo Z10",
@@ -21495,17 +21960,17 @@
             {
               "name": "Axi G14",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Axi O6",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Lith L5",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Lith R4",
@@ -21515,7 +21980,7 @@
             {
               "name": "Lith Y1",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             },
             {
               "name": "Meso G6",
