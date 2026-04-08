@@ -15,8 +15,8 @@ import make_prime_dict
 
 PRIME_JSON_FILE_NAME = "prime.json"
 RELICS_JSON_FILE_NAME = "relics.json"
-# TARGET_URL = "https://n8k6e2y6.ssl.hwcdn.net/repos/hnfvc0o3jnfvc873njb03enrf56.html"
-TARGET_URL = "https://www.warframe.com/ja/droptables"
+TARGET_URL = "https://warframe-web-assets.nyc3.cdn.digitaloceanspaces.com/uploads/cms/hnfvc0o3jnfvc873njb03enrf56.html"
+# TARGET_URL = "https://www.warframe.com/ja/droptables"
 
 def create_dir(dir_name):
     dir = os.path.join(os.getcwd(), dir_name)
