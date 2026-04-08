@@ -14,6 +14,7 @@ env:
   PRIME_JSON_FILE_PATH: './next/assets/prime.json'
   RELICS_JSON_FILE_NAME: 'relics.json'
   RELICS_JSON_FILE_PATH: './next/assets/relics.json'
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     
 jobs:
   job_1:
