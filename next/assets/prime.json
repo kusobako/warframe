@@ -1,5 +1,5 @@
 {
-  "updateDate": "Last Updated: 17 Jun 2026 17:38:15",
+  "updateDate": "Last Updated: 23 Sep 2026 12:34:19",
   "tables": [
     {
       "name": "Acceltra",
@@ -794,6 +794,11 @@
             },
             {
               "name": "Neo V11",
+              "rarity": "C",
+              "isInVault": true
+            },
+            {
+              "name": "Neo V12",
               "rarity": "C",
               "isInVault": false
             },
@@ -7250,7 +7255,7 @@
             {
               "name": "Neo V11",
               "rarity": "UC",
-              "isInVault": false
+              "isInVault": true
             }
           ]
         },
@@ -16580,6 +16585,11 @@
             {
               "name": "Neo V11",
               "rarity": "C",
+              "isInVault": true
+            },
+            {
+              "name": "Neo V12",
+              "rarity": "C",
               "isInVault": false
             },
             {
@@ -17881,6 +17891,11 @@
               "name": "Neo A15",
               "rarity": "UC",
               "isInVault": true
+            },
+            {
+              "name": "Neo V12",
+              "rarity": "UC",
+              "isInVault": false
             },
             {
               "name": "Neo X1",
@@ -22730,6 +22745,11 @@
             {
               "name": "Neo V11",
               "rarity": "R",
+              "isInVault": true
+            },
+            {
+              "name": "Neo V12",
+              "rarity": "R",
               "isInVault": false
             }
           ]
@@ -23180,6 +23200,11 @@
             {
               "name": "Neo V11",
               "rarity": "UC",
+              "isInVault": true
+            },
+            {
+              "name": "Neo V12",
+              "rarity": "UC",
               "isInVault": false
             }
           ]
@@ -23319,6 +23344,11 @@
             },
             {
               "name": "Neo V11",
+              "rarity": "C",
+              "isInVault": true
+            },
+            {
+              "name": "Neo V12",
               "rarity": "C",
               "isInVault": false
             }
